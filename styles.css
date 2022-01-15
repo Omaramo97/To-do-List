@@ -1,7 +1,7 @@
 * {
     background-color: rgb(252, 196, 176);
     box-sizing: border-box;
-    flex-wrap: wrap;
+    flex-wrap: wrap; 
 }
 
 h2 {
